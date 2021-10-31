@@ -42,7 +42,7 @@ mkdir -p ${DEPLOYMENT_PATH}/data/keys
 Let's choose a password in order to secure your wallet which will be created later on
 
 ```
-echo <YOUR_WALLET_PASSWORD> >> ${DEPLOYMENT_PATH}/data/prysm/validator/password/wallet-password
+echo <YOUR_WALLET_PASSWORD> >> ${DEPLOYMENT_PATH}/data/prysm/validator/passwords/wallet-password
 ```
 
 ## Get Goerli
